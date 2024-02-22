@@ -1,0 +1,27 @@
+  body{
+            background-color: rgb(207, 173, 132);
+        }
+        header{
+            background-color: blue;
+            width:34px;
+            background-position: top;
+        }
+        .signin{
+            text-align:center;
+        }
+        .signup{
+            text-align:center;
+        }
+        h1{
+            text-align: center;
+            text-decoration: underline;
+            color: rgb(3, 3, 241);
+        }
+        .button input[type="button"]{
+            background-color: rgba(6, 61, 5, 0.872);
+            color:white;
+            height:34px;
+        }
+        .error {
+            color: red;
+        }
