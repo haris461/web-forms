@@ -181,6 +181,7 @@ purpose like for date of birth and phone and address and other fied also
             return false;
         }
 
+        
         // Proceed with form submission
         alert('Sign up successful!');
         return true;
@@ -201,3 +202,18 @@ purpose like for date of birth and phone and address and other fied also
 explaination 
 in this code of java we provide validation process in which implement the different validation  of user input about the nme and password and for ither form field
 we also provide the functionaltiy we use the dom manipution function to applying the validation in the form in the code we use two function one is singin() function for sign in form and second is singup() function form to implement the validation of sign up form
+
+
+
+
+
+
+
+
+
+screenshot
+
+![image](https://github.com/haris461/web-forms/assets/158203393/e1e234dd-a87b-41c4-994b-136660ca8510)
+
+
+
